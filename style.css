@@ -1,0 +1,66 @@
+
+#container {
+    position: relative;
+    background-image: url("Screenshot%202024-02-23%20194548.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    color: white;
+    padding: 50px;
+    overflow: hidden;
+  }
+
+  #white {
+    position: absolute;
+    top: 90px;
+    width: 450px;
+    height: 350px;
+    left: 50px;
+    background-image: url('black.png');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    border-radius: 20px;
+  }
+
+  #Login {
+    position:absolute;
+    top: 90px;
+    
+    left: 235px;
+    
+  }
+
+  #user {
+    position:absolute;
+    top: 190px;
+    font-size: larger;
+    left: 100px;
+    
+  }
+
+  #pass {
+    position:absolute;
+    top: 290px;
+    font-size: larger;
+    font-style: initial;
+    left: 100px;
+    
+  }
+
+  #uu {
+    position:absolute;
+    top: 205px;
+    font-size: larger;
+    left: 190px;
+    
+  }
+
+  #pp {
+    position:absolute;
+    top: 305px;
+    font-size: larger;
+    left: 190px;
+    
+  }
